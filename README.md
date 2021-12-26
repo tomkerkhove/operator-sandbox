@@ -1,2 +1,2 @@
-# GitHub Template
-GitHub template for all my future GitHub repos
+# Operator Sandbox
+Sandbox to play around with operators and building your own. 🤹 
